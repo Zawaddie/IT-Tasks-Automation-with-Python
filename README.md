@@ -128,61 +128,61 @@ Handling files and directories programmatically.
 Executing system commands from Python
 Automating common file operations
 
-### Web Scraping and Automation
+### B) Web Scraping and Automation
 
 Web scraping with Python (e.g., using BeautifulSoup).  
 Extracting data from web pages.  
 Automating web-based tasks (e.g., form submission, data retrieval).  
 Handling dynamic web content (e.g., AJAX, JavaScript)
 
-### Working with APIs
+### C) Working with APIs
 
 Understanding APIs and their role in automation.  
 Making HTTP requests with Python (e.g., using requests library).  
 Parsing JSON responses
 Building scripts to interact with popular APIs (e.g., Twitter, GitHub)
 
-### Working with Databases
+### D) Working with Databases
 
 Connecting to databases using Python (e.g., MySQL, SQLite).  
 Executing SQL queries programmatically.  
 Automating database operations.  
 Handling data extraction, transformation, and loading (ETL) tasks.
 
-### DevOps Automation
+### E) DevOps Automation
 
 Understanding DevOps and its principles.  
 Introduction to configuration management tools (e.g., Ansible, Puppet).  
 Automating infrastructure provisioning.  
 Managing application deployments with Python.
 
-### Testing and Monitoring Automation
+### F) Testing and Monitoring Automation
 Introduction to testing frameworks (e.g., pytest).  
 Automating testing processes.  
 Monitoring system resources and logs
 Building automated monitoring solutions.
 
-### Network Automation
+### G) Network Automation
 Network automation concepts.  
 Automating network device configuration (e.g., using Netmiko).  
 Retrieving network device information programmatically.  
 Building network monitoring and management scripts.
 
-### Security Automation
+### H) Security Automation
 
 Introduction to security automation.  
 Automating security tasks (e.g., vulnerability scanning, log analysis).  
 Implementing security controls with Python.  
 Building automated security monitoring solutions.
 
-### Cloud Automation
+### I) Cloud Automation
 
 Introduction to cloud platforms and their APIs (e.g., AWS, Azure).  
 Automating cloud infrastructure provisioning.  
 Managing cloud resources programmatically.  
 Building serverless applications with Python.
 
-### Advanced Automation Techniques
+### J) Advanced Automation Techniques
 
 Working with advanced Python concepts (e.g., decorators, generators).  
 Creating reusable automation libraries.  
